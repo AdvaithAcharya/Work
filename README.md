@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AdvaithAcharya/Work/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/AdvaithAcharya/Work/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AdvaithAcharya/Work/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/AdvaithAcharya/Work/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AdvaithAcharya/Work/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/AdvaithAcharya/Work/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
