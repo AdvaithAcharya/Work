@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdvaithAcharya/Work/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AdvaithAcharya/Work/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/AdvaithAcharya/Work/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/AdvaithAcharya/Work/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AdvaithAcharya/Work/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AdvaithAcharya/Work/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/AdvaithAcharya/Work/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AdvaithAcharya/Work/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AdvaithAcharya/Work/tree/master/0389-find-the-difference) |
 ## Binary Search
