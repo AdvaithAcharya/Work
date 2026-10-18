@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AdvaithAcharya/Work/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/AdvaithAcharya/Work/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AdvaithAcharya/Work/tree/master/0268-missing-number) |
+| [0643-maximum-average-subarray-i](https://github.com/AdvaithAcharya/Work/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AdvaithAcharya/Work/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/AdvaithAcharya/Work/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
