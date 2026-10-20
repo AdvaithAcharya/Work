@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AdvaithAcharya/Work/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/AdvaithAcharya/Work/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AdvaithAcharya/Work/tree/master/0141-linked-list-cycle) |
+| [0567-permutation-in-string](https://github.com/AdvaithAcharya/Work/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AdvaithAcharya/Work/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AdvaithAcharya/Work/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/AdvaithAcharya/Work/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AdvaithAcharya/Work/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/AdvaithAcharya/Work/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AdvaithAcharya/Work/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AdvaithAcharya/Work/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AdvaithAcharya/Work/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/AdvaithAcharya/Work/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -83,5 +86,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AdvaithAcharya/Work/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/AdvaithAcharya/Work/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AdvaithAcharya/Work/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
