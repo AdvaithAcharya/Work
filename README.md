@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdvaithAcharya/Work/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AdvaithAcharya/Work/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/AdvaithAcharya/Work/tree/master/0136-single-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/AdvaithAcharya/Work/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/AdvaithAcharya/Work/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/AdvaithAcharya/Work/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AdvaithAcharya/Work/tree/master/0268-missing-number) |
@@ -82,10 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AdvaithAcharya/Work/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AdvaithAcharya/Work/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AdvaithAcharya/Work/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/AdvaithAcharya/Work/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AdvaithAcharya/Work/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AdvaithAcharya/Work/tree/master/0567-permutation-in-string) |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AdvaithAcharya/Work/tree/master/0239-sliding-window-maximum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AdvaithAcharya/Work/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
