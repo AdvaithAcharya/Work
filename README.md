@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AdvaithAcharya/Work/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/AdvaithAcharya/Work/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AdvaithAcharya/Work/tree/master/0141-linked-list-cycle) |
+| [0443-string-compression](https://github.com/AdvaithAcharya/Work/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AdvaithAcharya/Work/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AdvaithAcharya/Work/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AdvaithAcharya/Work/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdvaithAcharya/Work/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AdvaithAcharya/Work/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/AdvaithAcharya/Work/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AdvaithAcharya/Work/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
