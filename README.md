@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AdvaithAcharya/Work/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/AdvaithAcharya/Work/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AdvaithAcharya/Work/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AdvaithAcharya/Work/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/AdvaithAcharya/Work/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AdvaithAcharya/Work/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AdvaithAcharya/Work/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AdvaithAcharya/Work/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/AdvaithAcharya/Work/tree/master/0151-reverse-words-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/AdvaithAcharya/Work/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/AdvaithAcharya/Work/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AdvaithAcharya/Work/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AdvaithAcharya/Work/tree/master/0876-middle-of-the-linked-list) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AdvaithAcharya/Work/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/AdvaithAcharya/Work/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AdvaithAcharya/Work/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AdvaithAcharya/Work/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AdvaithAcharya/Work/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AdvaithAcharya/Work/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/AdvaithAcharya/Work/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AdvaithAcharya/Work/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AdvaithAcharya/Work/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AdvaithAcharya/Work/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdvaithAcharya/Work/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AdvaithAcharya/Work/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AdvaithAcharya/Work/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AdvaithAcharya/Work/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AdvaithAcharya/Work/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
