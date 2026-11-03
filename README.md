@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AdvaithAcharya/Work/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AdvaithAcharya/Work/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/AdvaithAcharya/Work/tree/master/1512-number-of-good-pairs) |
+| [1929-concatenation-of-array](https://github.com/AdvaithAcharya/Work/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AdvaithAcharya/Work/tree/master/0098-validate-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/AdvaithAcharya/Work/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
