@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AdvaithAcharya/Work/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/AdvaithAcharya/Work/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AdvaithAcharya/Work/tree/master/0992-subarrays-with-k-different-integers) |
+| [1480-running-sum-of-1d-array](https://github.com/AdvaithAcharya/Work/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/AdvaithAcharya/Work/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/AdvaithAcharya/Work/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AdvaithAcharya/Work/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/AdvaithAcharya/Work/tree/master/1480-running-sum-of-1d-array) |
 ## Counting
 |  |
 | ------- |
