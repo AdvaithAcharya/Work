@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AdvaithAcharya/Work/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdvaithAcharya/Work/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AdvaithAcharya/Work/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/AdvaithAcharya/Work/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdvaithAcharya/Work/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AdvaithAcharya/Work/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/AdvaithAcharya/Work/tree/master/0209-minimum-size-subarray-sum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AdvaithAcharya/Work/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/AdvaithAcharya/Work/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdvaithAcharya/Work/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
