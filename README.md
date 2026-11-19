@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AdvaithAcharya/Work/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/AdvaithAcharya/Work/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AdvaithAcharya/Work/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdvaithAcharya/Work/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/AdvaithAcharya/Work/tree/master/0392-is-subsequence) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AdvaithAcharya/Work/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AdvaithAcharya/Work/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/AdvaithAcharya/Work/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/AdvaithAcharya/Work/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AdvaithAcharya/Work/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/AdvaithAcharya/Work/tree/master/1512-number-of-good-pairs) |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdvaithAcharya/Work/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AdvaithAcharya/Work/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
