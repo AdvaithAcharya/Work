@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AdvaithAcharya/Work/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AdvaithAcharya/Work/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdvaithAcharya/Work/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/AdvaithAcharya/Work/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AdvaithAcharya/Work/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AdvaithAcharya/Work/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AdvaithAcharya/Work/tree/master/0876-middle-of-the-linked-list) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AdvaithAcharya/Work/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/AdvaithAcharya/Work/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdvaithAcharya/Work/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/AdvaithAcharya/Work/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AdvaithAcharya/Work/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdvaithAcharya/Work/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AdvaithAcharya/Work/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/AdvaithAcharya/Work/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdvaithAcharya/Work/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AdvaithAcharya/Work/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/AdvaithAcharya/Work/tree/master/0443-string-compression) |
