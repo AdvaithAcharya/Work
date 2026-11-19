@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AdvaithAcharya/Work/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AdvaithAcharya/Work/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/AdvaithAcharya/Work/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/AdvaithAcharya/Work/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AdvaithAcharya/Work/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdvaithAcharya/Work/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AdvaithAcharya/Work/tree/master/0392-is-subsequence) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AdvaithAcharya/Work/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AdvaithAcharya/Work/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/AdvaithAcharya/Work/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AdvaithAcharya/Work/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/AdvaithAcharya/Work/tree/master/1512-number-of-good-pairs) |
 ## String
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AdvaithAcharya/Work/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdvaithAcharya/Work/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/AdvaithAcharya/Work/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/AdvaithAcharya/Work/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AdvaithAcharya/Work/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AdvaithAcharya/Work/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AdvaithAcharya/Work/tree/master/0268-missing-number) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AdvaithAcharya/Work/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/AdvaithAcharya/Work/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
 | ------- |
